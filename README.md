@@ -10,5 +10,11 @@ Result Obtained:
 
 The graph obtained is more accurate provided the surrounding environment is more closer to the sensor. SONAR has a drawback that the sound pulses will echo when they are aimed at corners and the data at uneven surfaces is ambiguous for plotting the graph. The echo feedback can be fixed by using better quality sensors. Better calibration between the sensor and BOT can be used to move the BOT at various positions. Data from this positions can be averaged to get a more accurate reading. For the applications of depth perception SONAR does a fine job and the BOT is able to navigate itself based on sensor inputs accurately.
 
-Project Link: https://www.youtube.com/watch?v=ZicGZZCmCmM&t=3s
+Project Video Link: https://www.youtube.com/watch?v=ZicGZZCmCmM&t=3s
+
+References Used for the Project:
+https://www.hackster.io/Satyavrat/ultrasonic-map-maker-using-an-arduino-yun-37c72e?ref=channel – This site is used to understand the basic knowledge about the working,  assembly, and the components that are used in the project.
+http://www.rakeshmondal.info/L293D-Motor-Driver - This site is used for understanding the pin diagram , specifications , and the usage of the L293D IC.
+
+
 
