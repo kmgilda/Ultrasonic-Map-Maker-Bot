@@ -13,8 +13,8 @@ The graph obtained is more accurate provided the surrounding environment is more
 Project Video Link: https://www.youtube.com/watch?v=ZicGZZCmCmM&t=3s
 
 References Used for the Project:
-https://www.hackster.io/Satyavrat/ultrasonic-map-maker-using-an-arduino-yun-37c72e?ref=channel – This site is used to understand the basic knowledge about the working,  assembly, and the components that are used in the project. \n
-http://www.rakeshmondal.info/L293D-Motor-Driver - This site is used for understanding the pin diagram , specifications , and the usage of the L293D IC.
+https://www.hackster.io/Satyavrat/ultrasonic-map-maker-using-an-arduino-yun-37c72e?ref=channel – This site is used to understand the basic knowledge about the working,  assembly, and the components that are used in the project.
+
 
 
 
